@@ -11,3 +11,7 @@ And the boot screen is replaced with your pic.
 
 Here is the executable file
 ( https://www.dropbox.com/s/24789r3w2wssyjj/final%28zx%29.exe?dl=0 )
+
+Boot Image 
+
+![myboot - copy](https://cloud.githubusercontent.com/assets/9850882/12079081/f9f27e54-b251-11e5-9aaa-1d64168d8613.jpg)
